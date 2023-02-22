@@ -1,0 +1,54 @@
+html{
+    font-family: 'Consolas';
+    background-image: url('./assets/background.png');
+}
+
+#navigation-bar{
+    background-color: #333333;
+    margin: 0px 0px 50px;
+    padding: 10px  10%;
+    text-align: right;
+    margin: 0px 10%
+}
+.logo{
+    margin-right: 0px;
+}
+a{
+    color: #ff0099;
+    text-decoration: underline;
+    text-decoration-color: #ff0099;
+}
+div{
+    margin: 20px 10% 20px;
+    padding: 0px 10%;
+    line-height: 150%;
+}
+h1{
+    font-size: 40pt;
+    font-weight: bold;
+}
+h2{
+    font-size: 24px;
+    color: #ff0099;
+}
+#wiki h2{
+    color: black;
+    text-align: center;
+    font-size: 24pt;
+    font-weight: bold;
+}
+h3{
+    font-size: 20px;
+    font-weight: bold;
+}
+p{
+    font-size: small;
+}
+#introduction p{
+    font-size: medium;
+}
+#separator{
+    text-align: center;
+    margin: 10px;
+    padding: 10px 10%;
+}
